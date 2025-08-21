@@ -1,0 +1,19 @@
+{
+  "name": "Vibe",
+  "symbol": "VIBE",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/vibe.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/vibe.png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.vibe.us.com/",
+    "twitter": "https://x.com/vibe_us_com",
+    "telegram": ""
+  }
+}
