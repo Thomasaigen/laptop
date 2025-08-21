@@ -1,0 +1,19 @@
+{
+  "name": "web3",
+  "symbol": "web3",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/web3.jpg",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/web3.jpg" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "",
+    "telegram": ""
+  }
+}
