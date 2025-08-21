@@ -1,0 +1,19 @@
+{
+  "name": "Lume",
+  "symbol": "Lume",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/ait-metdata/main/lume.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/ait-metdata/main/lume.png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.lumefi.app/",
+    "twitter": "https://x.com/lumefiapp",
+    "telegram": ""
+  }
+}
