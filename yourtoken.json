@@ -1,0 +1,19 @@
+{
+  "name": "your.fun",
+  "symbol": "YOUR",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/your.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/your.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://your.fun/",
+    "twitter": "https://x.com/yourdotfun",
+    "telegram": ""
+  }
+}
