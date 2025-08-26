@@ -1,0 +1,19 @@
+{
+  "name": "open",
+  "symbol": "open",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/open.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/open.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.open-sol.dev/",
+    "twitter": "https://x.com/opensoldev",
+    "telegram": ""
+  }
+}
