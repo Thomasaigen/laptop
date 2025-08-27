@@ -1,0 +1,19 @@
+{
+  "name": "Ask Caesar",
+  "symbol": "ASK",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/ask.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/ask.png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/ask_caesar",
+    "telegram": ""
+  }
+}
