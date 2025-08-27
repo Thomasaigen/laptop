@@ -1,0 +1,19 @@
+{
+  "name": "CANOPY",
+  "symbol": "CANOPY",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/canopyslerf.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/canopyslerf.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.canopyip.com/",
+    "twitter": "https://x.com/Canopy_IP",
+    "telegram": ""
+  }
+}
