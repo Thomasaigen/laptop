@@ -1,0 +1,19 @@
+{
+  "name": "Ani Eliza Companion",
+  "symbol": "Ani",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/ani.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/ani.png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/TraderBurry/status/1961187039136874835",
+    "telegram": ""
+  }
+}
