@@ -1,0 +1,19 @@
+{
+  "name": "ICM.NEWS",
+  "symbol": "ICM",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/icm.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/icm.png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/icmdotnews",
+    "telegram": ""
+  }
+}
