@@ -1,0 +1,19 @@
+{
+  "name": "cribs",
+  "symbol": "cribs",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/cribs.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/cribs.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.cribs.fun/",
+    "twitter": "https://x.com/cribsdotfun",
+    "telegram": ""
+  }
+}
