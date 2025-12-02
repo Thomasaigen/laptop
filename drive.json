@@ -1,0 +1,19 @@
+{
+  "name": "Drive Live",
+  "symbol": "DRIVE",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/drive.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/drive.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://drivelive.fun/",
+    "twitter": "https://x.com/DriveLiveFun",
+    "telegram": ""
+  }
+}
