@@ -1,0 +1,19 @@
+{
+  "name": "BoosterPacks",
+  "symbol": "BP",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/packs.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/packs.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://openboosterpacks.com/",
+    "twitter": "https://x.com/openbpcom",
+    "telegram": ""
+  }
+}
