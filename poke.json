@@ -1,0 +1,19 @@
+{
+  "name": "Pokemon Index",
+  "symbol": "POKEDEX",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/poke.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/poke.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "",
+    "telegram": ""
+  }
+}
