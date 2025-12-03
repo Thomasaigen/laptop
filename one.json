@@ -1,0 +1,19 @@
+{
+  "name": "OnePiece",
+  "symbol": "ONEPIECE",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/one.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/one.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "",
+    "telegram": ""
+  }
+}
