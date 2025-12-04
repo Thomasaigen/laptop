@@ -1,0 +1,19 @@
+{
+  "name": "GeSIM",
+  "symbol": "SIM",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/gesim.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/gesim.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.gesim.xyz/",
+    "twitter": "https://x.com/gesimxyz",
+    "telegram": ""
+  }
+}
