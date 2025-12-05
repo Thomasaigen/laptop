@@ -1,0 +1,19 @@
+{
+  "name": "Xtrends",
+  "symbol": "X",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/xtrend.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/xtrend.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.xtrends.fun/",
+    "twitter": "https://x.com/xtrends_fun",
+    "telegram": ""
+  }
+}
