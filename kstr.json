@@ -1,0 +1,19 @@
+{
+  "name": "Kabuto Strategy",
+  "symbol": "KSTR",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/kstr.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/kstr.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://kabutostrategy.com/",
+    "twitter": "https://x.com/kabuto_strategy",
+    "telegram": ""
+  }
+}
