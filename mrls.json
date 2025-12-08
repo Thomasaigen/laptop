@@ -1,0 +1,19 @@
+{
+  "name": "morals",
+  "symbol": "morals",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/mrls.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/mrls.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.morals.fun/",
+    "twitter": "https://x.com/moralsdotfun",
+    "telegram": ""
+  }
+}
