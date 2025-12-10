@@ -1,0 +1,19 @@
+{
+  "name": "AMERIMAN",
+  "symbol": "AMERIMAN",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/man2.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/man2.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/ameriman_usd1",
+    "telegram": ""
+  }
+}
