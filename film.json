@@ -1,0 +1,19 @@
+{
+  "name": "film.fun",
+  "symbol": "TAPE",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/film.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/film.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.film.fun/",
+    "twitter": "https://x.com/film_dot_fun",
+    "telegram": ""
+  }
+}
