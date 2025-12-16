@@ -1,0 +1,19 @@
+{
+  "name": "Leaf Shardbound Token",
+  "symbol": "LEAF",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/leaf.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/leaf.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.shardbound.fun/",
+    "twitter": "https://x.com/shardbound_fun",
+    "telegram": ""
+  }
+}
