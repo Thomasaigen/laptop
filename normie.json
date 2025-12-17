@@ -1,0 +1,19 @@
+{
+  "name": "Escape The Normal Life",
+  "symbol": "NORMIE",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/normie.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/normie.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/NormieInAmerica",
+    "telegram": ""
+  }
+}
