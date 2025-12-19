@@ -1,0 +1,19 @@
+{
+  "name": "Make AI Great Again",
+  "symbol": "M.A.G.A.",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/right.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/right.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.right.fun/",
+    "twitter": "",
+    "telegram": ""
+  }
+}
