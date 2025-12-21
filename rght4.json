@@ -1,0 +1,19 @@
+{
+  "name": "right",
+  "symbol": "right",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/rght.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/laptop/main/rght.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.right.fun/",
+    "twitter": "https://x.com/rightdotfun",
+    "telegram": ""
+  }
+}
